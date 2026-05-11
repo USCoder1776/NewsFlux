@@ -56,6 +56,8 @@ NewsFlux/
 │
 └── README.md
 
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
