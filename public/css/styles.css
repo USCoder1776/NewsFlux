@@ -1,0 +1,192 @@
+ /* .navbar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;   /* gap kam kar */
+   /* padding: 10px;
+  border: 2.2px solid  rgb(85, 30, 186); 
+ } */
+
+#m{ text-align: center;
+  text-decoration: underline;
+
+}
+
+#n{ font-weight: bold;
+}
+
+
+.line {
+  width: 1500px;
+  height: 2px;
+  background-color: black;
+  margin-top: 5px;
+}
+
+#z{
+  text-decoration: underline
+}
+
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 2.2px solid  red;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.border {
+  transition: all 0.2s ease;
+}
+
+.border:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+/* .container-fluid {
+  max-width: 1300px;
+  margin: auto;
+} */
+
+.navbar-brand img {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* .nav-pill {
+  border-radius: 999px;
+  margin: 10px 16px;   /* top + side spacing */
+/* } */ 
+
+/* 
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, "Times New Roman", serif;
+} */
+
+
+/* h3 {
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+p {
+  line-height: 1.6;
+  color: #444;
+} */
+
+.navbar {
+  background-color: #b80000;
+  /* width: 1450px;
+  margin-right: 1000px; */
+}
+
+/* body {
+  font-family: 'Inter', sans-serif;
+}
+
+ h1,h2,h3,h6 {
+  font-family: 'Poppins', sans-serif;
+} */
+
+h9{
+    margin-left: 500px;
+      color: cornsilk;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ h1,h2,h3, h6 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+.btn {
+  font-size: 13px;
+  padding: 6px 12px;
+}
+
+.container-fluid {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+ .navbar {
+  border-radius: 10px;
+  /* padding: 10px 20px;          NAVBAR */
+} 
+
+.navbar .btn {
+  border-radius: 99px;
+}
+
+
+
+.card-like {
+  border: 1px solid #ddd;   /* instead of thick black */
+  border-radius: 10px;
+  transition: all 0.2s ease;
+}
+
+.card-like:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+
+img {
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.card-like img {
+  height: 180px;
+  width: 100%;
+}
+
+body {
+  background-color: #f5f6fa;
+}
+
+.card {
+  border: solid red;
+}
+
+input, select {
+  border-radius: 15px;
+}
+
+button {
+  border-radius: 15px;
+}
+
+
+
+#l{
+  text-decoration: underline darkgreen dashed;
+}

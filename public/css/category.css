@@ -1,0 +1,44 @@
+.navbar{
+     border-radius: 10px;
+}
+
+#nmn{
+     border-radius: 20px;
+    
+
+}
+
+
+.tbar{
+      font-family: Arial, Helvetica, sans-serif;
+      font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+
+.tbaro {
+  border: 1px solid #ddd;   /* instead of thick black */
+  border-radius: 10px;
+  transition: all 0.2 ease;
+}
+
+.tbaro:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+h1{
+    margin-left: 60px;
+    color: rgb(255, 255, 255);
+}
+
+.line {
+  width: 1500px;
+  height: 2px;
+  background-color: black;
+  margin-top: 5px;
+}
+
+.btn{
+  border-radius: 15px ;
+}
