@@ -55,3 +55,13 @@ NewsFlux/
 │   ├── images/
 │
 └── README.md
+
+---
+## ⚙️ Installation & Setup
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/USCoder1776/NewsFlux.git
+
+### 2. Move to project directory
+cd NewsFlux
