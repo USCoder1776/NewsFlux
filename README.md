@@ -55,7 +55,7 @@ NewsFlux/
 │   ├── images/
 │
 └── README.md
-
+```
 
 
 ## ⚙️ Installation & Setup
