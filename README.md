@@ -117,3 +117,43 @@ Visit:
 ```text
 http://localhost:3000
 ```
+---
+
+## 🔍 Functionalities
+
+### 🔎 Search News
+
+Users can search news articles using keywords.
+
+Search works on:
+
+- Title
+- Description
+
+---
+
+### 🏷️ Category Filtering
+
+Users can browse news based on categories such as:
+
+- Tech
+- Sports
+- Breaking
+
+---
+
+### ➕ Add News
+
+Users can add custom news articles dynamically through the platform.
+
+---
+
+### 💾 Database Integration
+
+All news data is stored and managed using **MongoDB**.
+
+---
+
+### 🎨 Dynamic Rendering
+
+News content is dynamically rendered using **EJS templates**.
