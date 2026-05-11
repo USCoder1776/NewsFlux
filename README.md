@@ -58,9 +58,10 @@ NewsFlux/
 
 ---
 
-## ⚙️ Installation & Setup
+###⚙️ Installation & Setup
+---
 
-### 1️⃣ Clone the Repository
+###1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/USCoder1776/NewsFlux.git
