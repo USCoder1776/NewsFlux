@@ -66,15 +66,11 @@ NewsFlux/
 git clone https://github.com/USCoder1776/NewsFlux.git
 ```
 
----
-
 ### 2️⃣ Navigate to the Project Folder
 
 ```bash
 cd NewsFlux
 ```
-
----
 
 ### 3️⃣ Navigate to Backend Folder
 
@@ -82,15 +78,11 @@ cd NewsFlux
 cd backend
 ```
 
----
-
 ### 4️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
-
----
 
 ### 5️⃣ Create `.env` File
 
@@ -100,19 +92,13 @@ Create a `.env` file inside the `backend` folder and add:
 MONGO_URI=your_mongodb_connection_string
 ```
 
----
-
 ### 6️⃣ Start the Server
 
 ```bash
 npm start
 ```
 
----
-
 ### 7️⃣ Open in Browser
-
-Visit:
 
 ```text
 http://localhost:3000
